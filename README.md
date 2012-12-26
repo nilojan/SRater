@@ -1,4 +1,0 @@
-SRater
-======
-
-SRater - Social Feedback
